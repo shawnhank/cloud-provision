@@ -9,7 +9,7 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.4.2
 	github.com/Azure/go-autorest/autorest/to v0.3.0
 	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
-	github.com/aws/aws-sdk-go v1.26.8
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/digitalocean/godo v1.54.0
 	github.com/dimchansky/utfbom v1.1.0
 	github.com/dirien/ovh-go-sdk v0.1.1
